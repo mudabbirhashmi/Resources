@@ -1,0 +1,33 @@
+[
+  {
+    "id": "Fact-cheker",
+    "position": "Fact-chek and Media Research Executive",
+    "organization": "Press Institute Bangladesh (PIB) ",
+    "startDate": "2025",
+    "endDate": "Present",
+    "description": "The Press Institute Bangladesh (PIB) is an autonomous organization under the Ministry of Information and Broadcasting People's Republic of Bangladesh. I worked here as a Fact-checker."
+  },
+  {
+    "id": "Fact-cheker",
+    "position": "Fact-cheker",
+    "organization": "Ajker Patrika",
+    "startDate": "2024",
+    "endDate": "2025",
+    "description": "I worked here as a Fact-checker."
+  },
+  {
+    "id": "Fact-cheker",
+    "position": "Fact-cheker",
+    "organization": "Rumor Scanner",
+    "startDate": "2023",
+    "endDate": "2024",
+    "description": "I worked here as a Fact-checker."
+  }
+]
+{
+    "id": "Reporter",
+    "position": "Multimedia Reporter",
+    "organization": "The Business Standard",
+    "startDate": "2022",
+    "endDate": "2022",
+    "description": "I worked here as a Multimedia Reporter."
