@@ -1,0 +1,33 @@
+[
+  {
+    "id": "doc-1",
+    "title": "Blacksmiths of Cumilla",
+    "type": "documentary",
+    "institution": "Comilla University",
+    "date": "December 01, 2024",
+    "thumbnail": "https://drive.google.com/file/d/1tyeiyx0m_FPsxM4eJ5cCtboZJOVdTRDa/view?usp=drive_link",
+    "description": "This documentary is made as part of educational work. All videos captured with permission of all individuals in footage. The sunrise video and some music for this documentary are collected from the internet.",
+    "videoUrl": "https://www.facebook.com/reel/575170045108674"
+  },
+  {
+    "id": "news-1",
+    "title": "রাজধানীর মগবাজারে ভোরে অস্ত্রের মুখে ছিনতাই, যা জানালেন ভুক্তভোগী",
+    "type": "OSINT-Based News Report",
+    "institution": "Ajker Patrika",
+    "date": "2025",
+    "thumbnail": "https://images.ajkerpatrika.com/original_images/Thumb_6bCiozP.jpg",
+    "description": "Investigation into an unidentified robbery.",
+    "fullDescription": "When this video git viral at thad time, some people thought it was a scripted viedo. But actually it was a true roberry crime.",
+    "link": "https://web.archive.org/web/20260124132757/https://www.ajkerpatrika.com/bangladesh/dhaka/ajpzhkvvofvce?fbclid=IwY2xjawPhpm1leHRuA2FlbQIxMABicmlkETFYT3dQM3pvZ3MwM1Q3ZFNXc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjLFOpDr4dlSJRNm1-Zx2gHrCaRz_OTGH_tRqyOgeWwgxij4WPkWqcuYi5rR_aem_Vzu5zWHVkLSDJzZztdTAgg"
+  },
+    "id": "news-2",
+    "title": "ট্রেনের নিচে পড়া ভাইরাল ভিডিওর ব্যক্তিটি বেঁচে আছেন",
+    "type": "OSINT-Based News Report",
+    "institution": "Ajker Patrika",
+    "date": "2025",
+    "thumbnail": "https://images.ajkerpatrika.com/original_images/Thumb2_m679bM8.jpg",
+    "description": "Investigation into an unidentified claim about man died falling under train.",
+    "fullDescription": "When this video git viral at thad time, some people thought the man died. But actually the man who fell under train is alive.",
+    "link": "https://web.archive.org/web/20260124134107/https://www.ajkerpatrika.com/fact-check/slip-of-tongue/ajpx77b5nygug?fbclid=IwY2xjawPhpkdleHRuA2FlbQIxMABicmlkETFYT3dQM3pvZ3MwM1Q3ZFNXc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjLFOpDr4dlSJRNm1-Zx2gHrCaRz_OTGH_tRqyOgeWwgxij4WPkWqcuYi5rR_aem_Vzu5zWHVkLSDJzZztdTAgg"
+  }
+]
