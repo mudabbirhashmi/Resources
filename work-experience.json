@@ -1,7 +1,7 @@
 [
   {
     "id": "fact-check-pib-1",
-    "position": "Fact-chek and Media Research Executive",
+    "position": "Fact-check and Media Research Executive",
     "organization": "Press Institute Bangladesh (PIB) ",
     "startDate": "2025",
     "endDate": "Present",
@@ -9,7 +9,7 @@
   },
   {
     "id": "fact-check-pib-ajker-patrika-1",
-    "position": "Fact-cheker",
+    "position": "Fact-checker",
     "organization": "Ajker Patrika",
     "startDate": "2024",
     "endDate": "2025",
@@ -17,7 +17,7 @@
   },
   {
     "id": "fact-check-pib-rumor-scanner-1",
-    "position": "Fact-cheker",
+    "position": "Fact-checker",
     "organization": "Rumor Scanner",
     "startDate": "2023",
     "endDate": "2024",
@@ -32,3 +32,4 @@
     "description": "I worked here as a Multimedia Reporter."
   }
 ]
+
