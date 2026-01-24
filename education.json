@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bachelors",
+    "degree": "Bachelor of Social Science",
+    "field": "Mass Communication & Journalism",
+    "institution": "Comilla University",
+    "graduationYear": 2023,
+    "description": "Completed comprehensive coursework in communications, print journalism, broadcast media, and digital journalism with focus on investigative reporting techniques."
+  },
+  {
+    "id": "masters",
+    "degree": "Master of Social Science",
+    "field": "Mass Communication & Journalism",
+    "institution": "Comilla University",
+    "graduationYear": 2024,
+    "description": "Advanced studies in communications, multimedia journalism, documentary filmmaking, and news production."
+  }
+]
