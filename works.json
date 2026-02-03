@@ -7,17 +7,17 @@
     "date": "December 01, 2024",
     "thumbnail": "https://drive.google.com/file/d/1tyeiyx0m_FPsxM4eJ5cCtboZJOVdTRDa/view?usp=drive_link",
     "description": "This documentary is made as part of educational work. All videos captured with permission of all individuals in footage. The sunrise video and some music for this documentary are collected from the internet.",
-    "videoUrl": "https://www.facebook.com/reel/575170045108674"
+    "videoUrl": "https://www.instagram.com/p/DDJaXndSN2K/"
   },
   {
     "id": "news-1",
     "title": "রাজধানীর মগবাজারে ভোরে অস্ত্রের মুখে ছিনতাই, যা জানালেন ভুক্তভোগী",
     "type": "OSINT-Based News Report",
     "institution": "Ajker Patrika",
-    "date": "2025",
+    "date": "25 May, 2025",
     "thumbnail": "https://images.ajkerpatrika.com/original_images/Thumb_6bCiozP.jpg",
     "description": "Investigation into an unidentified robbery.",
-    "fullDescription": "When this video git viral at thad time, some people thought it was a scripted viedo. But actually it was a true roberry crime.",
+    "fullDescription": "When this video got viral at thad time, some people thought it was a scripted viedo. But actually it was a true roberry crime.",
     "link": "https://web.archive.org/web/20260124132757/https://www.ajkerpatrika.com/bangladesh/dhaka/ajpzhkvvofvce?fbclid=IwY2xjawPhpm1leHRuA2FlbQIxMABicmlkETFYT3dQM3pvZ3MwM1Q3ZFNXc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjLFOpDr4dlSJRNm1-Zx2gHrCaRz_OTGH_tRqyOgeWwgxij4WPkWqcuYi5rR_aem_Vzu5zWHVkLSDJzZztdTAgg"
   },
   {
@@ -28,7 +28,85 @@
     "date": "2025",
     "thumbnail": "https://images.ajkerpatrika.com/original_images/Thumb2_m679bM8.jpg",
     "description": "Investigation into an unidentified claim about man died falling under train.",
-    "fullDescription": "When this video git viral at thad time, some people thought the man died. But actually the man who fell under train is alive.",
+    "fullDescription": "When this video got viral at thad time, some people thought the man died. But actually the man who fell under train is alive.",
     "link": "https://web.archive.org/web/20260124134107/https://www.ajkerpatrika.com/fact-check/slip-of-tongue/ajpx77b5nygug?fbclid=IwY2xjawPhpkdleHRuA2FlbQIxMABicmlkETFYT3dQM3pvZ3MwM1Q3ZFNXc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjLFOpDr4dlSJRNm1-Zx2gHrCaRz_OTGH_tRqyOgeWwgxij4WPkWqcuYi5rR_aem_Vzu5zWHVkLSDJzZztdTAgg"
-  }
+  },
+  {
+    "id": "shalban-mainamati-traders",
+    "title": "Shalban-Mainamati traders in crisis due to unplanned housing, commodity price hike",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "29 August, 2022",
+    "thumbnail": "shalban-mainamati-traders",
+    "description": "Shalban-Mainamati traders in crisis due to unplanned housing, commodity price hike.",
+    "fullDescription": "Shalban-Mainamati traders in crisis due to unplanned housing, commodity price hike.",
+    "link": "https://www.tbsnews.net/videos/shalban-mainamati-traders-crisis-due-unplanned-housing-commodity-price-hike-485822"
+  },
+  {
+    "id": "bangladeshs-first-robotics-school",
+    "title": "Bangladesh's first robotics school in Cumilla",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "31 July, 2022",
+    "thumbnail": "bangladeshs-first-robotics-school",
+    "description": "Bangladesh's first robotics school in Cumilla.",
+    "fullDescription": "Bangladesh's first robotics school in Cumilla.",
+    "link": "https://www.tbsnews.net/videos/bangladeshs-first-robotics-school-cumilla-468370"
+  },
+  {
+    "id": "pegion-market",
+    "title": "Pigeon market of Cumilla",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "November 2, 2022",
+    "thumbnail": "pegion-market",
+    "description": "Pigeon market of Cumilla.",
+    "fullDescription": "Pigeon market of Cumilla.",
+    "link": "https://www.tbsnews.net/videos/pigeon-market-cumilla-524558"
+  },
+  {
+    "id": "chitthi-chattor",
+    "title": "The market where pigeons meet in Comilla",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "September 28, 2022",
+    "thumbnail": "chitthi-chattor",
+    "description": "The market where pigeons meet in Comilla.",
+    "fullDescription": "The market where pigeons meet in Comilla.",
+    "link": "https://www.youtube.com/watch?v=y7CE_c0rGeE"
+  },
+  {
+    "id": "students-cumilla-learning-martial-arts",
+    "title": "Students in Cumilla learning martial arts for self-defense",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "21 August, 2022",
+    "thumbnail": "students-cumilla-learning-martial-arts",
+    "description": "Students in Cumilla learning martial arts for self-defense.",
+    "fullDescription": "Students in Cumilla learning martial arts for self-defense.",
+    "link": "https://www.tbsnews.net/videos/students-cumilla-learning-martial-arts-self-defense-481202"
+  },
+  {
+    "id": "students-depression-not-getting-better-grades",
+    "title": "Students in depression for not getting better grades!",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "14 September, 2022",
+    "thumbnail": "students-depression-not-getting-better-grades",
+    "description": "Students in depression for not getting better grades!.",
+    "fullDescription": "Students in depression for not getting better grades!",
+    "link": "https://www.tbsnews.net/videos/students-depression-not-getting-better-grades-496238"
+  },
+  {
+    "id": "news-3",
+    "title": "আষাঢ়ে গল্প; গণমাধ্যমের হাত ধরে কল্পিত অবাস্তব অভিনেতার বাস্তব মৃত্যু",
+    "type": "Fact-check Report",
+    "institution": "Rumor Scanner",
+    "date": "18 May, 2023",
+    "thumbnail": "https://archive.ph/o/3bpGd/https://rumorscanner.com/wp-content/uploads/2023/05/1-4-scaled.jpeg",
+    "description": "Investigation into an unidentified claim about ai man died after surgery.",
+    "fullDescription": "When this claim got viral at thad time, so many media published report in it.",
+    "link": "https://web.archive.org/web/20250711212456/https://rumorscanner.com/fact-check/the-real-death-of-the-non-existent-actor-has-been-publicized-by-the-media/75147"
+  }  
 ]
+
