@@ -1,16 +1,5 @@
 [
   {
-    "id": "doc-1",
-    "title": "Blacksmiths of Cumilla",
-    "type": "documentary",
-    "institution": "Comilla University",
-    "date": "December 01, 2024",
-    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/doc-1.png",
-    "description": "This documentary is made as part of educational work. All videos captured with permission of all individuals in footage. The sunrise video and some music for this documentary are collected from the internet.",
-	"fullDescription": "A glimpse into the lives and legacy of traditional blacksmiths in Cumilla, capturing their craftsmanship, resilience, and dedication to an age-old profession. This documentary highlights their daily struggles, skills, and cultural significance within the community. A heartfelt visual story created as part of an educational initiative.",
-    "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
-  },
-  {
     "id": "news-1",
     "title": "রাজধানীর মগবাজারে ভোরে অস্ত্রের মুখে ছিনতাই, যা জানালেন ভুক্তভোগী",
     "type": "OSINT-Based News Report",
@@ -108,8 +97,20 @@
     "description": "Investigation into an unidentified claim about ai man died after surgery.",
     "fullDescription": "When this claim got viral at thad time, so many media published report in it.",
     "link": "https://web.archive.org/web/20250711212456/https://rumorscanner.com/fact-check/the-real-death-of-the-non-existent-actor-has-been-publicized-by-the-media/75147"
-  }  
+  },
+	{
+    "id": "doc-1",
+    "title": "Blacksmiths of Cumilla",
+    "type": "documentary",
+    "institution": "Comilla University",
+    "date": "December 01, 2024",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/doc-1.png",
+    "description": "This documentary is made as part of educational work. All videos captured with permission of all individuals in footage. The sunrise video and some music for this documentary are collected from the internet.",
+	"fullDescription": "A glimpse into the lives and legacy of traditional blacksmiths in Cumilla, capturing their craftsmanship, resilience, and dedication to an age-old profession. This documentary highlights their daily struggles, skills, and cultural significance within the community. A heartfelt visual story created as part of an educational initiative.",
+    "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
+  }
 ]
+
 
 
 
