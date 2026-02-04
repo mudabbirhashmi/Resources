@@ -1,5 +1,13 @@
 [
   {
+    "id": "hsc",
+    "degree": "Higher Secondary Certificate",
+    "field": "Humanities (Arts)",
+    "institution": "Govt. Ananda Mohan College, Mymensingh",
+    "graduationYear": 2018,
+    "description": "A two-year higher secondary academic program (Class XI-XII) focusing on social sciences, languages, and humanities subjects, such as Bangla, English, ICT, Civics, Social Work, Economics and Islamic Studies."
+  },
+  {
     "id": "bachelors",
     "degree": "Bachelor of Social Science",
     "field": "Mass Communication & Journalism",
@@ -16,3 +24,4 @@
     "description": "Advanced studies in communications, multimedia journalism, documentary filmmaking, and news production."
   }
 ]
+
