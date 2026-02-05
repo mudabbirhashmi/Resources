@@ -253,6 +253,28 @@
     "link": "https://web.archive.org/web/20250711212456/https://rumorscanner.com/fact-check/the-real-death-of-the-non-existent-actor-has-been-publicized-by-the-media/75147"
   },
 	{
+    "id": "satellite-fake",
+    "title": "বঙ্গবন্ধু স্যাটেলাইটের ছবি দাবিতে ভুল ছবি এডিট করে প্রচার",
+    "type": "Fact-check Report",
+    "institution": "Rumor Scanner",
+    "date": "22 March, 2023",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/satellite-fake.jpg",
+    "description": "Various images have been circulated at different times claiming to show Bangladesh Satellite-1. The most widely shared image features the satellite with Bangladeshi flags on both sides.",
+    "fullDescription": "The image is not an authentic photo of Bangladesh Satellite-1. It is an edited image created from a satellite design stock image that was uploaded in 2005.",
+    "link": "https://web.archive.org/web/20260205211142/https://rumorscanner.com/fact-check/circulation-of-distorted-pictures-in-the-media-demanding-photos-of-bangabandhu-satellite/41563"
+  },
+	{
+    "id": "asif-mahmud-fake-photo",
+    "title": "একাধিক নারীর সাথে প্রচারিত ছবিগুলো আসিফ মাহমুদের নয়",
+    "type": "Fact-check Report",
+    "institution": "Rumor Scanner",
+    "date": "6 September, 2023",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/asif-mahmud-fake-photo.jpg",
+    "description": "Multiple images and alleged Messenger chat screenshots have recently circulated on social media, claiming to show objectionable scenes involving Asif Mahmud, Youth and Sports Adviser of the interim government.",
+    "fullDescription": "Investigation found that the images are not authentic, and the purported Messenger chat screenshots are fake. The content was created by collecting photos of different individuals from the internet and digitally editing them by placing Asif Mahmud’s face to spread the false claim.",
+    "link": "https://web.archive.org/web/20260205212340/https://rumorscanner.com/fact-check/altered-photo-of-asif-mahmud/122725"
+  },
+	{
     "id": "doc-1",
     "title": "Blacksmiths of Cumilla",
     "type": "documentary",
@@ -264,6 +286,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
