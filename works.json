@@ -32,6 +32,17 @@
     "fullDescription": "Shalban-Mainamati traders in crisis due to unplanned housing, commodity price hike.",
     "link": "https://www.tbsnews.net/videos/shalban-mainamati-traders-crisis-due-unplanned-housing-commodity-price-hike-485822"
   },
+	{
+    "id": "fish-scales-comilla",
+    "title": "Fish Scales Are Being Commercially Processed in Comilla",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "2 December, 2022",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/fish-scales-comilla.jpg",
+    "description": "Fish Scales Are Being Commercially Processed in Comilla.",
+    "fullDescription": "Fish Scales Are Being Commercially Processed in Comilla.",
+    "link": "https://www.youtube.com/embed/MaYyAdG852g"
+  },
   {
     "id": "bangladeshs-first-robotics-school",
     "title": "Bangladesh's first robotics school in Cumilla",
@@ -110,6 +121,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
