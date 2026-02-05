@@ -186,9 +186,42 @@
     "fullDescription": "Students in depression for not getting better grades!",
     "link": "https://www.tbsnews.net/videos/students-depression-not-getting-better-grades-496238"
   },
+	{
+    "id": "lathi-khela",
+    "title": "ভারতে মহররমের লাঠিখেলাকে বাংলাদেশের বিভিন্ন স্থানের সংঘর্ষ দাবিতে প্রচার",
+    "type": "Fact-check Report",
+    "institution": "Ajker Patrika",
+    "date": "9 February 2025",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/lathi-khela.jpg",
+    "description": "A video claiming to show a recent clash between two groups in Gazipur has circulated widely on social media. Similar captions have been shared across multiple Facebook accounts, groups, and pages.",
+    "fullDescription": "The video is not from Bangladesh. In reality, it shows Muharram celebrations in Bastawara village, Bihar, India, but has been falsely circulated as footage of a recent clash between two groups in Gazipur and other parts of Bangladesh.",
+    "link": "https://web.archive.org/web/20250212143334/https://www.ajkerpatrika.com/fact-check/slip-of-tongue/ajpun9rf2kb7k"
+  },
+	{
+    "id": "girl-dark-road",
+    "title": "অন্ধকারে রাস্তায় পড়ে জখম তরুণী, ভাইরাল ভিডিওটির ঘটনাস্থল বাংলাদেশ নয়",
+    "type": "Fact-check Report",
+    "institution": "Ajker Patrika",
+    "date": "28 January 2025",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/girl-dark-road.jpg",
+    "description": "A video claiming that a young woman was gang-raped at Teknaf Beach in Cox’s Bazar has been circulating on social media.",
+    "fullDescription": "The video is not from Bangladesh. It actually originates from Bakultala area under Jaynagar Police Station in West Bengal, India.",
+    "link": "https://web.archive.org/web/20250618122400/https://www.ajkerpatrika.com/fact-check/fact-check-international/ajpyutgzigifn"
+  },
+	{
+    "id": "indian-border-music",
+    "title": "‘পার্বত্য চট্টগ্রামে সশস্ত্র গোষ্ঠীর বিচরণ’ দাবিতে সোশ্যাল মিডিয়ায় ছড়ানো ভিডিওটি বাংলাদেশের নয়",
+    "type": "Fact-check Report",
+    "institution": "Ajker Patrika",
+    "date": "23 January 2025",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/indian-border-music.jpg",
+    "description": "A video claiming a singing competition between two sides at the Bangladesh–India border in Chapainawabganj has circulated on social media.",
+    "fullDescription": "No such singing competition has recently taken place at the Chapainawabganj border. The video actually shows celebrations by the owners of two brick kilns in Muktarpur, Gobindapur area, Murshidabad, West Bengal, India.",
+    "link": "https://web.archive.org/web/20260205200345/https://www.ajkerpatrika.com/fact-check/fact-check-national/ajpxfj61zb9ix"
+  },
   {
     "id": "news-3",
-    "title": "আষাঢ়ে গল্প; গণমাধ্যমের হাত ধরে কল্পিত অবাস্তব অভিনেতার বাস্তব মৃত্যু",
+    "title": "বাংলাদেশ-ভারত সীমান্তে গানের প্রতিযোগিতার দাবিটি ভুয়া; ভিডিওটি ভারতের",
     "type": "Fact-check Report",
     "institution": "Rumor Scanner",
     "date": "18 May, 2023",
@@ -209,6 +242,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
