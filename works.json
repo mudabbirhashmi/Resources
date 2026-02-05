@@ -87,6 +87,17 @@
     "fullDescription": "The market where pigeons meet in Cumilla.",
     "link": "https://www.youtube.com/watch?v=y7CE_c0rGeE"
   },
+	{
+    "id": "cou-anniversary",
+    "title": "Comilla University Celebrates Its 16th Anniversary",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "May 30, 2022",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/cou-anniversary.jpg",
+    "description": "Comilla University Celebrates Its 16th Anniversary.",
+    "fullDescription": "The 16th anniversary of Comilla University was celebrated. On its birthday, the country’s 26th public university was adorned in colorful festivity.",
+    "link": "https://www.youtube.com/embed/qbftVwokbc4"
+  },
   {
     "id": "students-cumilla-learning-martial-arts",
     "title": "Students in Cumilla learning martial arts for self-defense",
@@ -132,6 +143,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
