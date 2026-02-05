@@ -153,6 +153,17 @@
     "fullDescription": "Students in Cumilla learning martial arts for self-defense.",
     "link": "https://www.tbsnews.net/videos/students-cumilla-learning-martial-arts-self-defense-481202"
   },
+	{
+    "id": "tea-entrepreneur",
+    "title": "Comilla Agricultural Entrepreneur Successfully Grows Tea on Lalmoi Hills as a Hobby",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "16 August, 2022",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/tea-entrepreneur.jpg",
+    "description": "Comilla Agricultural Entrepreneur Successfully Grows Tea on Lalmoi Hills as a Hobby.",
+    "fullDescription": "When it comes to tea cultivation in Bangladesh, Sylhet is the first name that comes to mind, followed by Chittagong, as both regions are famous for tea. However, Tarikul Islam Majumdar has successfully experimented with tea farming on the Lalmoi Hills in Comilla. The entrepreneur believes that tea produced on Lalmoi Hills can not only meet the local demand in Comilla but also be exported abroad.",
+    "link": "https://www.youtube.com/embed/CYl1aRKMd_M"
+  },
   {
     "id": "students-depression-not-getting-better-grades",
     "title": "Students in depression for not getting better grades!",
@@ -187,6 +198,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
