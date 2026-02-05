@@ -77,6 +77,17 @@
     "link": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/396b7e3dc7b6f08d9799e26ea07a00cd63f382cf/tokyo-olympics-report.pdf"
   },
 	{
+    "id": "mcj-news-pagemakeup",
+    "title": "Page Makeup with QuarkXPress",
+    "type": "Page Makeup",
+    "institution": "MCJ News",
+    "date": "13 February, 2023",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/mcj-news-pagemakeup.jpg",
+    "description": "I made a page makeup for a daily newspaper.",
+    "fullDescription": "I made this first page makeup of MCJ News with QuarkXPress. It was made according to our Page Makeup course's exam question.",
+    "link": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/5ee72dc51add3d13f848e8e2ce1f47153d22196f/quarkxpress-hashmi.pdf"
+  },
+	{
     "id": "cou-burger-boy",
     "title": "COU student who became self-reliant and also helped others get employed.",
     "type": "Multimedia Report",
@@ -308,6 +319,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
