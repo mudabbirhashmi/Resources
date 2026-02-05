@@ -18,7 +18,7 @@
     "date": "19 May 2025",
     "thumbnail": "https://images.ajkerpatrika.com/original_images/Thumb2_m679bM8.jpg",
     "description": "Investigation into an unidentified claim about man died falling under train.",
-    "fullDescription": "When this video got viral at thad time, some people thought the man died. But actually the man who fell under train is alive.",
+    "fullDescription": "When this video got viral at that time, some people thought the man died. But actually the man who fell under train is alive.",
     "link": "https://web.archive.org/web/20260124134107/https://www.ajkerpatrika.com/fact-check/slip-of-tongue/ajpx77b5nygug?fbclid=IwY2xjawPhpkdleHRuA2FlbQIxMABicmlkETFYT3dQM3pvZ3MwM1Q3ZFNXc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjLFOpDr4dlSJRNm1-Zx2gHrCaRz_OTGH_tRqyOgeWwgxij4WPkWqcuYi5rR_aem_Vzu5zWHVkLSDJzZztdTAgg"
   },
   {
@@ -42,6 +42,17 @@
     "description": "Fish Scales Are Being Commercially Processed in Comilla.",
     "fullDescription": "Fish Scales Are Being Commercially Processed in Comilla.",
     "link": "https://www.youtube.com/embed/MaYyAdG852g"
+  },
+	{
+    "id": "cou-burger-boy",
+    "title": "COU student who became self-reliant and also helped others get employed.",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "24 May, 2022",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/cou-burger-boy.jpg",
+    "description": "COU student who became self-reliant and also helped others get employed.",
+    "fullDescription": "COU student who became self-reliant and also helped others get employed.",
+    "link": "https://www.youtube.com/embed/dqoZdQOiHi4"
   },
   {
     "id": "bangladeshs-first-robotics-school",
@@ -121,6 +132,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
