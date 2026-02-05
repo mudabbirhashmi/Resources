@@ -120,6 +120,17 @@
     "fullDescription": "When Saidur Rahman was a child, teachers initially did not want to admit him to school because he had a disability. This was one of the greatest sorrows of his early life. However, through sheer determination, he overcame his disability. The same child for whom school admission was once a struggle has now completed Honors and Master’s degrees in Public Administration from Comilla University and was pursuing an MBA.",
     "link": "https://www.youtube.com/embed/gcNixOCXjZE"
   },
+	{
+    "id": "anandalok-school",
+    "title": "‘Anandolok School’ Means Dance, Music, Recitation, and Sports",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "June 26, 2022",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/anandalok-school.jpg",
+    "description": "‘Anandolok School’ Means Dance, Music, Recitation, and Sports.",
+    "fullDescription": " At Anandolok School, students engage in rural games and various sports. They also learn reading, dance, music, recitation, and handwriting skills.",
+    "link": "https://www.youtube.com/embed/LHixAtgGViE"
+  },
   {
     "id": "students-cumilla-learning-martial-arts",
     "title": "Students in Cumilla learning martial arts for self-defense",
@@ -165,6 +176,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
