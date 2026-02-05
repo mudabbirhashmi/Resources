@@ -21,6 +21,17 @@
     "fullDescription": "When this video got viral at that time, some people thought the man died. But actually the man who fell under train is alive.",
     "link": "https://web.archive.org/web/20260124134107/https://www.ajkerpatrika.com/fact-check/slip-of-tongue/ajpx77b5nygug?fbclid=IwY2xjawPhpkdleHRuA2FlbQIxMABicmlkETFYT3dQM3pvZ3MwM1Q3ZFNXc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjLFOpDr4dlSJRNm1-Zx2gHrCaRz_OTGH_tRqyOgeWwgxij4WPkWqcuYi5rR_aem_Vzu5zWHVkLSDJzZztdTAgg"
   },
+	{
+    "id": "ctg-hill",
+    "title": "‘পার্বত্য চট্টগ্রামে সশস্ত্র গোষ্ঠীর বিচরণ’ দাবিতে সোশ্যাল মিডিয়ায় ছড়ানো ভিডিওটি বাংলাদেশের নয়",
+    "type": "Fact-check Report",
+    "institution": "Ajker Patrika",
+    "date": "4 May 2025",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/ctg-hill.jpg",
+    "description": "Investigation suggests Kuki insurgents from Manipur, India.",
+    "fullDescription": "A video claiming that an armed group is roaming the remote hills of Chittagong Hill Tracts has circulated on social media. Investigation says, Kuki insurgents from Manipur, India.",
+    "link": "https://web.archive.org/web/20260205200345/https://www.ajkerpatrika.com/fact-check/fact-check-national/ajpxfj61zb9ix"
+  },
   {
     "id": "shalban-mainamati-traders",
     "title": "Shalban-Mainamati traders in crisis due to unplanned housing, commodity price hike",
@@ -198,6 +209,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
