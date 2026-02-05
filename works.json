@@ -55,7 +55,7 @@
     "link": "https://www.youtube.com/embed/MaYyAdG852g"
   },
 	{
-    "id": "cou-theacher-recruit.jpg",
+    "id": "cou-theacher-recruit",
     "title": "শিক্ষক নিয়োগ পরীক্ষার খাতা যথাযথ মূল্যায়ন না করার অভিযোগ স্বর্ণপদকজয়ী শিক্ষার্থীর",
     "type": "Text Report",
     "institution": "MCJ News",
@@ -64,6 +64,17 @@
     "description": "Gold Medalist Alleges Improper Evaluation of Teacher Recruitment Exam Papers",
     "fullDescription": "An applicant named Maria Nusrat Sarker has alleged improper evaluation of written answer scripts in the teacher recruitment exam for the English Department at Comilla University. She is from the university’s first batch (2006–07 session) and the first and only Prime Minister’s Gold Medalist of the English Department.",
     "link": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/92f64ba7c127d6691701e5dc15f9f70b405d2b04/cou-theacher-recruit-report.pdf"
+  },
+	{
+    "id": "tokyo-olympics",
+    "title": "টোকিও অলিম্পিক যাদের নিশ্চিহ্ন করেছে",
+    "type": "Text Report",
+    "institution": "MCJ News",
+    "date": "7 August, 2021",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/tokyo-olympics.jpg",
+    "description": "Those who were wiped out by the Tokyo Olympics",
+    "fullDescription": "Tokyo, Japan is now a city of festivals. Athletes from around the world, breaking and setting records, the sounds of victory and defeat, and the excitement of winning medals have been the daily story of Tokyo's Olympic Village for the past few days. But buried beneath this story is the story of the loss of shelter for many of the city's homeless people.",
+    "link": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/396b7e3dc7b6f08d9799e26ea07a00cd63f382cf/tokyo-olympics-report.pdf"
   },
 	{
     "id": "cou-burger-boy",
@@ -297,6 +308,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
