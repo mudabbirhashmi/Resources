@@ -110,6 +110,17 @@
     "link": "https://www.youtube.com/embed/qbftVwokbc4"
   },
 	{
+    "id": "muktagacha-monda",
+    "title": "With Growing Fame, Sales of Manda in Mymensingh Have Increased",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "July 15, 2022",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/muktagacha-monda.jpg",
+    "description": "With Growing Fame, Sales of Manda in Mymensingh Have Increased.",
+    "fullDescription": "It’s hard to find someone in the country who hasn’t heard of Muktagacha’s Mandar in Mymensingh. Loved for its taste and fame, this delicacy has crossed national borders, earning a spot among popular foods worldwide.",
+    "link": "https://www.youtube.com/embed/n114LOyL3dk"
+  },
+	{
     "id": "saidur-achieves-masters",
     "title": "Overcoming Disability, Saidur Rahman Achieves Honors and Master’s",
     "type": "Multimedia Report",
@@ -176,6 +187,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
