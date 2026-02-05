@@ -98,6 +98,28 @@
     "fullDescription": "The 16th anniversary of Comilla University was celebrated. On its birthday, the country’s 26th public university was adorned in colorful festivity.",
     "link": "https://www.youtube.com/embed/qbftVwokbc4"
   },
+	{
+    "id": "free-tea-for-book",
+    "title": "Innovative Initiative in Comilla: Free Tea for Readers",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "June 2, 2022",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/cou-anniversary.jpg",
+    "description": "Innovative Initiative in Comilla: Free Tea for Readers.",
+    "fullDescription": "A bookstore owner in Comilla has launched a unique initiative offering free tea to customers who read books in the shop, encouraging reading while creating a cozy, welcoming atmosphere.",
+    "link": "https://www.youtube.com/embed/qbftVwokbc4"
+  },
+	{
+    "id": "saidur-achieves-masters",
+    "title": "Overcoming Disability, Saidur Rahman Achieves Honors and Master’s",
+    "type": "Multimedia Report",
+    "institution": "The Business Standard",
+    "date": "June 19, 2022",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/saidur-achieves-masters.jpg",
+    "description": "Overcoming Disability, Saidur Rahman Achieves Honors and Master’s.",
+    "fullDescription": "When Saidur Rahman was a child, teachers initially did not want to admit him to school because he had a disability. This was one of the greatest sorrows of his early life. However, through sheer determination, he overcame his disability. The same child for whom school admission was once a struggle has now completed Honors and Master’s degrees in Public Administration from Comilla University and was pursuing an MBA.",
+    "link": "https://www.youtube.com/embed/gcNixOCXjZE"
+  },
   {
     "id": "students-cumilla-learning-martial-arts",
     "title": "Students in Cumilla learning martial arts for self-defense",
@@ -143,6 +165,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
