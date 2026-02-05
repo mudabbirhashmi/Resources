@@ -210,7 +210,7 @@
   },
 	{
     "id": "indian-border-music",
-    "title": "‘পার্বত্য চট্টগ্রামে সশস্ত্র গোষ্ঠীর বিচরণ’ দাবিতে সোশ্যাল মিডিয়ায় ছড়ানো ভিডিওটি বাংলাদেশের নয়",
+    "title": "বাংলাদেশ-ভারত সীমান্তে গানের প্রতিযোগিতার দাবিটি ভুয়া; ভিডিওটি ভারতের",
     "type": "Fact-check Report",
     "institution": "Ajker Patrika",
     "date": "23 January 2025",
@@ -219,9 +219,31 @@
     "fullDescription": "No such singing competition has recently taken place at the Chapainawabganj border. The video actually shows celebrations by the owners of two brick kilns in Muktarpur, Gobindapur area, Murshidabad, West Bengal, India.",
     "link": "https://web.archive.org/web/20260205200345/https://www.ajkerpatrika.com/fact-check/fact-check-national/ajpxfj61zb9ix"
   },
+	{
+    "id": "yunus-slogan",
+    "title": "শিক্ষার্থীদের ভিডিওতে আ.লীগের ড. ইউনূস–বিরোধী স্লোগান জুড়ে দিয়ে প্রচার",
+    "type": "Fact-check Report",
+    "institution": "Ajker Patrika",
+    "date": "19 January 2025",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/yunus-slogan.jpg",
+    "description": "A video claiming that students are chanting slogans in support of Sheikh Hasina has gone viral on social media.",
+    "fullDescription": "The video is edited. In reality, the students were protesting against a fellow student at Kadirdi College, Faridpur, in October 2024 over alleged derogatory remarks about Prophet Muhammad (PBUH). The footage has been combined with slogans from a rapid march by Jamalpur Awami League on 16 December to falsely suggest support for Sheikh Hasina.",
+    "link": "https://web.archive.org/web/20250210133516/https://www.ajkerpatrika.com/fact-check/slip-of-tongue/ajptbhmgbl1rp"
+  },
+	{
+    "id": "hasina-in-uk",
+    "title": "ভারতে প্রথমবারের মতো শেখ হাসিনা প্রকাশ্যে আসার ভুয়া দাবি প্রচার",
+    "type": "Fact-check Report",
+    "institution": "Ajker Patrika",
+    "date": "15 January 2025",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/hasina-in-uk.jpg",
+    "description": "A video claiming that ousted Sheikh Hasina has appeared publicly in India for the first time has recently gone viral on social media.",
+    "fullDescription": "The viral video is not from India. It actually shows Sheikh Hasina attending the state funeral of Queen Elizabeth II in the United Kingdom on September 18, 2022. The footage has been falsely circulated as her public appearance in India.",
+    "link": "https://web.archive.org/web/20260205203738/https://www.ajkerpatrika.com/fact-check/slip-of-tongue/ajpy4heennrb9"
+  },
   {
     "id": "news-3",
-    "title": "বাংলাদেশ-ভারত সীমান্তে গানের প্রতিযোগিতার দাবিটি ভুয়া; ভিডিওটি ভারতের",
+    "title": "আষাঢ়ে গল্প; গণমাধ্যমের হাত ধরে কল্পিত অবাস্তব অভিনেতার বাস্তব মৃত্যু",
     "type": "Fact-check Report",
     "institution": "Rumor Scanner",
     "date": "18 May, 2023",
@@ -242,6 +264,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
