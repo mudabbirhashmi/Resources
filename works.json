@@ -77,6 +77,17 @@
     "link": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/396b7e3dc7b6f08d9799e26ea07a00cd63f382cf/tokyo-olympics-report.pdf"
   },
 	{
+    "id": "mcj-bulletin",
+    "title": "News Bulletin of MCJ 4th Batch",
+    "type": "News Bulletin",
+    "institution": "MCJ News",
+    "date": "4 April, 2022",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/mcj-bulletin.jpg",
+    "description": "News Bulletin of MCJ 4th Batch was made by 4th batch students of Mass Communication and Journalism department of Comilla University.",
+    "fullDescription": "This Bulletin was an assignment of course tutor Kazi M Anisul Islam and Monirul Islam under the Broadcast Journalism course.",
+    "link": "https://www.youtube.com/embed/PvWx8wnghck"
+  },
+	{
     "id": "mcj-news-pagemakeup",
     "title": "Page Makeup with QuarkXPress",
     "type": "Page Makeup",
@@ -319,6 +330,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
