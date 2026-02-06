@@ -341,6 +341,17 @@
     "link": "https://www.youtube.com/embed/_jhZ8F23qE4"
   },
 	{
+    "id": "nothing-day",
+    "title": "What are COU students doing on 'Do Nothing Day'?",
+    "type": "Multimedia Report",
+    "institution": "MCJ News",
+    "date": "January 2022",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/nothing-day.jpg",
+    "description": "What are COU students doing on 'Do Nothing Day'?",
+    "fullDescription": "The MOJO Report 'What are COU students doing on 'Do Nothing Day' for MCJ News.",
+    "link": "https://www.youtube.com/embed/AXsq1J4_AzU"
+  },
+	{
     "id": "mcj-bulletin",
     "title": "News Bulletin of MCJ 4th Batch",
     "type": "News Bulletin",
@@ -363,6 +374,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
