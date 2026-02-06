@@ -159,7 +159,7 @@
     "type": "Multimedia Report",
     "institution": "The Business Standard",
     "date": "June 2, 2022",
-    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/cou-anniversary.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/free-tea-for-book.jpg",
     "description": "Innovative Initiative in Comilla: Free Tea for Readers.",
     "fullDescription": "A bookstore owner in Comilla has launched a unique initiative offering free tea to customers who read books in the shop, encouraging reading while creating a cozy, welcoming atmosphere.",
     "link": "https://www.youtube.com/embed/qbftVwokbc4"
@@ -219,14 +219,25 @@
     "fullDescription": "When it comes to tea cultivation in Bangladesh, Sylhet is the first name that comes to mind, followed by Chittagong, as both regions are famous for tea. However, Tarikul Islam Majumdar has successfully experimented with tea farming on the Lalmoi Hills in Comilla. The entrepreneur believes that tea produced on Lalmoi Hills can not only meet the local demand in Comilla but also be exported abroad.",
     "link": "https://www.youtube.com/embed/CYl1aRKMd_M"
   },
+	{
+    "id": "does-english-proficiency-make-students-more-qualified",
+    "title": "Does English proficiency make students more qualified?",
+    "type": "Anchoring & Interview",
+    "institution": "The Business Standard",
+    "date": "21 July, 2022",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/interview-english-language.jpg",
+    "description": "Does English proficiency make students more qualified?.",
+    "fullDescription": "Does English proficiency make students more qualified?",
+    "link": "https://www.youtube.com/embed/5JVt00m9Eck"
+  },
   {
     "id": "students-depression-not-getting-better-grades",
     "title": "Students in depression for not getting better grades!",
-    "type": "Multimedia Report",
+    "type": "Anchoring & Interview",
     "institution": "The Business Standard",
     "date": "14 September, 2022",
     "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/students-depression-not-getting-better-grades.jpg",
-    "description": "Students in depression for not getting better grades!.",
+    "description": "Students in depression for not getting better grades!",
     "fullDescription": "Students in depression for not getting better grades!",
     "link": "https://www.tbsnews.net/videos/students-depression-not-getting-better-grades-496238"
   },
@@ -330,6 +341,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
