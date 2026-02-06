@@ -319,6 +319,17 @@
     "link": "https://web.archive.org/web/20260205212340/https://rumorscanner.com/fact-check/altered-photo-of-asif-mahmud/122725"
   },
 	{
+    "id": "basantapur-package",
+    "title": "Ancient Architecture of Basanta Raja at Cumilla",
+    "type": "Multimedia Report",
+    "institution": "MCJ News",
+    "date": "1 April 2022",
+    "thumbnail": "https://raw.githubusercontent.com/mudabbirhashmi/Resources/refs/heads/main/images/basantapur-package.jpg",
+    "description": "Ancient Architecture of Basanta Raja at Cumilla.",
+    "fullDescription": "The News Report 'Ancient Architecture of Basanta Raja at Cumilla' was an assignment of 'Broadcast Journalism' course. Finally, it took place at MCJ 4th batch's News Bulletin.",
+    "link": "https://www.youtube.com/embed/nalqiU6w-I0"
+  },
+	{
     "id": "mcj-bulletin",
     "title": "News Bulletin of MCJ 4th Batch",
     "type": "News Bulletin",
@@ -341,6 +352,7 @@
     "videoUrl": "https://www.youtube.com/embed/QwxuBAyjEFM"
   }
 ]
+
 
 
 
